@@ -1,16 +1,22 @@
-## Hi there 👋
+README
+👋 Hello, I'm Ayşe Zeynep Aydoğdu
+I’m an Software Engineering student at Istanbul Topkapı University with a passion for Artificial Intelligence Development and Research and Game Development.
 
-<!--
-**zynpaydogdu/zynpaydogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 About Me
+Experience: Skin Cancer Classification in Python.
+Currently Learning: Improving my skills Artificial Intelligence, Deep Learning.
+Goal: My goal is to innovate in artificial intelligence and game development, creating impactful experiences.
+📚 Education
+Third-Year Software Engineering Student at Istanbul Topkapı University
+🌐 Connect with Me
+Email: aysezeynepaydogdu@gmail.com
+LinkedIn: https://www.linkedin.com/in/ay%C5%9Fe-zeynep-aydo%C4%9Fdu-869a0625a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+📊 GitHub Stats
+Top Languages
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+Python Java C C++ SQL HTML CSS JavaScript C# 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! 😊
+
+
